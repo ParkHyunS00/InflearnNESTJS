@@ -5,3 +5,4 @@
 - 강의 웹 앱 아키텍처와 HTTP 프로토콜
 - 강의 Restful API에 대하여
 - 강의 express + ts 개발 환경 셋업 & hello world!
+- 강의 express 미들웨어 이해하기
