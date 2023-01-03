@@ -6,3 +6,6 @@
 - 강의 Restful API에 대하여
 - 강의 express + ts 개발 환경 셋업 & hello world!
 - 강의 express 미들웨어 이해하기
+
+# 23.01.03
+- 강의 고양이 데이터 Create Read API 개발 (CRUD 이해)
