@@ -10,3 +10,13 @@
 # 23.01.03
 - 강의 고양이 데이터 Create Read API 개발 (CRUD 이해)
 - 강의 고양이 Route 분리, 모듈화
+
+# 23.01.04
+- 강의 고양이 데이터 Update Delete API 개발
+- 강의 express 싱글톤 패턴, 서비스 패턴
+- 강의 Database 개요
+- 강의 MongoDB Atlas 클라우드 구축
+- 강의 MongoDB 접근 권한 설정 & Compass 셋업
+- 강의 MongoDB CRUD
+- 강의 MySQL AWS 클라우드 구축 & Workbench 연결
+- 강의 MySQL CRUD
