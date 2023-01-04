@@ -20,3 +20,4 @@
 - 강의 MongoDB CRUD
 - 강의 MySQL AWS 클라우드 구축 & Workbench 연결
 - 강의 MySQL CRUD
+- 강의 NestJS 개발 환경 셋팅 & hello world!
