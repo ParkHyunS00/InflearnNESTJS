@@ -21,3 +21,8 @@
 - 강의 MySQL AWS 클라우드 구축 & Workbench 연결
 - 강의 MySQL CRUD
 - 강의 NestJS 개발 환경 셋팅 & hello world!
+
+# 23.01.10
+- 강의 NestJS 구조 & Controller 패턴
+- 강의 Providers & 의존성 주입(DI)
+- 강의 Modules & 캡슐화
