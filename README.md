@@ -26,3 +26,11 @@
 - 강의 NestJS 구조 & Controller 패턴
 - 강의 Providers & 의존성 주입(DI)
 - 강의 Modules & 캡슐화
+
+# 23.01.11
+- 강의 Nest Middleware
+- 강의 Exception filter & Pipes
+
+# 23.01.12
+- 강의 Exception filter & Pipes
+- 강의 Interceptors & AOP 
