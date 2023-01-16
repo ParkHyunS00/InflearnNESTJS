@@ -34,3 +34,8 @@
 # 23.01.12
 - 강의 Exception filter & Pipes
 - 강의 Interceptors & AOP 
+
+# 23.01.16
+### 프로젝트 1: 고양이 정보 커뮤니티
+- 강의 NestJS와 DB 연결, 환경변수 설정
+- 강의 DB 스키마, Controller 설계 & validation
