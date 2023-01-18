@@ -39,3 +39,7 @@
 ### 프로젝트 1: 고양이 정보 커뮤니티
 - 강의 NestJS와 DB 연결, 환경변수 설정
 - 강의 DB 스키마, Controller 설계 & validation
+
+# 23.01.18
+- 강의 회원가입 서비스 개발 & DTO 패턴
+- 강의 NestJS와 Fastify & 협업을 위한 API 문서 만들기 (Swagger), CORS 문제
