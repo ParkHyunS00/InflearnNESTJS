@@ -43,3 +43,7 @@
 # 23.01.18
 - 강의 회원가입 서비스 개발 & DTO 패턴
 - 강의 NestJS와 Fastify & 협업을 위한 API 문서 만들기 (Swagger), CORS 문제
+
+# 23.01.19
+- 강의 Repository 패턴과 레이어 분리
+- 강의 JWT와 로그인 서비스 & 순환 참조 모듈
