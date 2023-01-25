@@ -47,3 +47,8 @@
 # 23.01.19
 - 강의 Repository 패턴과 레이어 분리
 - 강의 JWT와 로그인 서비스 & 순환 참조 모듈
+
+# 23.01.25
+- 강의 passport와 인증 전략 & Custom decorator
+- 강의 Swagger API 보안 설정 & 로그인 API 프론트엔드와 연결
+- 강의 Multer와 미디어 파일 서비스 (mp3, mp4, img 등)
