@@ -52,3 +52,7 @@
 - 강의 passport와 인증 전략 & Custom decorator
 - 강의 Swagger API 보안 설정 & 로그인 API 프론트엔드와 연결
 - 강의 Multer와 미디어 파일 서비스 (mp3, mp4, img 등)
+
+# 23.01.27
+- 강의 고양이끼리 소통 API (댓글, 좋아요) - DB 설계, 컨트롤러 정의
+### 프로젝트 1 마무리
